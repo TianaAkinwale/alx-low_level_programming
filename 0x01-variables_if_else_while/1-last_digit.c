@@ -7,7 +7,7 @@
  *
  * Desc: print last digit in random number
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
