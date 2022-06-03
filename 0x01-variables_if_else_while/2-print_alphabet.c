@@ -5,9 +5,9 @@
  *
  * desc:print lettersw of alphabet using putchar
  *
- * return: always 0 (success)
+ * Return: always 0 (success)
  */
-int main (void)
+int main(void)
 {
 	int i = 97;
 
