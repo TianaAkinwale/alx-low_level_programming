@@ -3,6 +3,9 @@
 /**
  * add -adds two integers and returns the result.
  *
+ * @x: integer 1
+ * @y: integer 2
+ *
  * Return: sum
  */
 
