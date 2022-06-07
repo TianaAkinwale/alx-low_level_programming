@@ -5,8 +5,9 @@
  *
  * desc - checks for lowercase character.
  *
+ * @c: c is an ascii character
+ *
  * Return: 1 if lowercase
- * Return: 0 if uppercase
  */
 
 int _islower(int c)
