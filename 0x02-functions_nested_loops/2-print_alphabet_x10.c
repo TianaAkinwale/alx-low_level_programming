@@ -11,7 +11,7 @@
 void print_alphabet_x10(void)
 {
 	char alphabet;
-	int times = 0;
+	int times = 1;
 
 	while (times <= 10)
 	{
