@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * desc-prints all possible different combinations of two digits.
+ * desc-prints all possible different combinations of two d
  *
  * Return: Always 0 (Success/completed
  */
