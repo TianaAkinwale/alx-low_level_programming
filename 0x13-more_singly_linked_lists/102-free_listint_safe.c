@@ -69,4 +69,4 @@ size_t free_listint_safe(listint_t **h)
 	*h = NULL;
 	free_listp2(&hptr);
 	return (nnodes);
-}01~
+}
