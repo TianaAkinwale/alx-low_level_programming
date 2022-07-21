@@ -20,11 +20,11 @@ unsigned int binary_to_uint(const char *b)
 		if (b[i] != '0' && b[i] != '1')
 			return (0);
 	}
-	for (i= 0; b[] != '\0' i++){
-		nm <<= 1;
+	for (i = 0; b[i] != '\0'; i++)
+	{
+		num <<= 1;
 		if (b[i] == '1')
-			um += 1;
+			num += 1;
 	}
 	return (num);
-} i;
-	un
+}
